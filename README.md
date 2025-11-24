@@ -14,7 +14,7 @@ I’m a Cybersecurity & Forensic Computing student building my skills through re
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
-## Hi there 👋
+
 
 <!--
 **0-Enigma/0-Enigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
