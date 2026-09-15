@@ -6,7 +6,7 @@ I’m a Cybersecurity student building my skills through real projects, home-lab
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,linux,bash,powershell)](https://skillicons.dev)
 
           
 <br />
