@@ -10,8 +10,6 @@ I'd rather understand what a tool does underneath than just run it.
 ### `$ cat now.txt`
 
 - **building:** a security scanner for agentic AI skills and plugins
-- **lab:** Kali, Windows and Metasploitable 3 VMs
-- **practice:** TryHackMe, OverTheWire, FlagYard CTFs
 
 ### `$ ls ~/toolbox`
 
