@@ -1,14 +1,20 @@
-# ENIGMA 
-
 <p align="center"> <img src="assets/header.svg" width="100%" alt="ENIGMA: cybersecurity and digital forensics student, penetration testing"> </p>
+$ whoami
 
-## I'm a Student, and I like breaking into things!!
+Cybersecurity & Digital Forensics student, focused on penetration testing.
+I'd rather understand what a tool does underneath than just run it.
 
-I’m a Cybersecurity student building my skills through real projects, home-lab experiments, and hands-on learning. I enjoy creating security tools to automate my workflow, exploring networks, and understanding how systems behave under real conditions. This profile is where I document my journey, share my progress, and grow one project at a time.
+$ cat now.txt
+building: a security scanner for agentic AI skills and plugins
+lab: Kali, Windows and Metasploitable 3 VMs
+practice: TryHackMe, FlagYard CTFs, Overthewire
+$ ls ~/toolbox
+<img src="assets/toolbox.svg" width="100%" alt="Toolbox: Python, Bash, PowerShell. Also C, SQL, HTML, CSS, JavaScript, PHP">
+$ ./decrypt_me
+text
+TZUIT EYMXZ ZUSXZ GIGJS
+<details> <summary>machine settings</summary> <br>
 
-### Languages and Tools:
+Enigma I · reflector UKW-B · rotors I II III · rings A A A · start S Y N · no plugboard
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,linux,bash,powershell)](https://skillicons.dev)
-
-          
-<br />
+</details>
