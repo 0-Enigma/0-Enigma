@@ -13,7 +13,7 @@ I'd rather understand what a tool does underneath than just run it.
 
 ### `$ ls ~/toolbox`
 
-<img src="assets/toolbox.svg" width="100%" alt="Toolbox: Python, Bash, PowerShell. Also C, HTML, CSS, JavaScript, PHP, SQL">
+<img src="assets/toolbox.svg" width="100%" alt="Toolbox: Python, Bash, PowerShell. Also C, SQL, HTML, CSS, JavaScript, PHP">
 
 ### `$ ./decrypt_me`
 
